@@ -12,3 +12,10 @@ A Wolfeinstein-like renderer made in C using minilibX, with textures, basic ligh
 $ make
 $ ./wolf3d [map_file]
 ```
+
+## Pictures
+#### Main menu
+![Alt text](/screens/scr1.jpg?raw=true "Main menu")
+#### Game
+![Alt text](/screens/scr2.jpg?raw=true "game")
+![Alt text](/screens/sc3.jpg?raw=true "game")
