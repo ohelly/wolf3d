@@ -18,4 +18,4 @@ $ ./wolf3d [map_file]
 ![Alt text](/screens/scr1.png?raw=true "Main menu")
 #### Game
 ![Alt text](/screens/scr2.png?raw=true "game")
-![Alt text](/screens/sc3.png?raw=true "game")
+![Alt text](/screens/scr3.png?raw=true "game")
